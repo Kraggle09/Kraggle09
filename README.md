@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Kraggle09
+- 👀 I’m interested in Gaming, Technology, and random Sci-Fi/Fantasy stuff
+- 🌱 I’m currently learning miscellaneous stuff like Minecraft Datapacks, Godot/GDscript, and more
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing, I'm not interesting
+
+<!---
+Kraggle09/Kraggle09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
