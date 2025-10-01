@@ -1,0 +1,12 @@
+## Version Compatibility Chart Guide
+
+Colors:
+Green: Fully works as intended
+Yellow: Some features may be unavailable
+Orange: Some features may not work/be broken
+Red: Many/Core features are not usable/will not launch
+
+Versions:
+This chart shows all versions from 1.20 onward that aren't just hotfixes (e.g. 1.21.1).
+
+For example, if a pack says it's compatible with 1.21, that counts 1.21.1, but doesn't necessarily count 1.21.2.
