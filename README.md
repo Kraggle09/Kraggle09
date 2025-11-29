@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing, I'm not interesting
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kraggle09&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sandy-one-jxt7siiimc.vercel.app/api?username=kraggle09&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Kraggle09/Kraggle09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
