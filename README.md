@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kraggle09
 - 👀 I’m interested in Gaming, Technology, and random Sci-Fi/Fantasy stuff
-- 🌱 I’m currently learning miscellaneous stuff like Minecraft Datapacks, Godot/GDscript, and more
+- 🌱 I’m currently learning anything and everything I'm interested in (currently MC modding)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothing, I'm not interesting
 
